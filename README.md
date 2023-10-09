@@ -1,2 +1,2 @@
 # github_practical_example_project
-Repository practical
+Repository practical 1
